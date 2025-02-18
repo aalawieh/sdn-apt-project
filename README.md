@@ -116,11 +116,10 @@ python3 analyze_traffic.py
 ## **🌍 Repository & Contribution**
 
 - **GitHub Repository**: [https://github.com/aalawieh/sdn-apt-project](https://github.com/aalawieh/sdn-apt-project)
-- **Contributions**: Fork, pull requests, and discussions are welcome!
 
 ## **📩 Contact**
 
-For any queries or collaboration, reach out at [**abbas.alawieh@example.com**](mailto\:abbas.alawieh@example.com).
+Reach out at [**abbas.alawieh@telecom-sudparis.eu**](mailto\:abbas.alawieh@telecom-sudparis.eu).
 
 ---
 
